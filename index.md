@@ -1,7 +1,3 @@
-1. [Delight-Design.md](REHAU DELIGHT-DESIGN.md)
-1. [GRAZIO.md](REHAU GRAZIO)
-1. [kveekspert.md](KBE- EXPERT 70)
-1. [kveGut58.md](KBE- Gut 58)
 1. [kveMaster.md](KBEMASTER)
 1. [BlitzNew.md](REHAU Blitz New)
 1. [kve70dveri.md](KBE- 70Dveri)
