@@ -24,5 +24,5 @@
 1. [Противомоскитные сетки](moskitnyesetki.md)
 1. [tablicaogranicheniy.md](tablicaogranicheniy.md)
 1. двери
-      *. [KBE- 58 Двери](kveGut58dveri.md)
-      *. KBE 70 Dveri ](kve70dveri.md)
+      . [KBE- 58 Двери](kveGut58dveri.md)
+      1. KBE 70 Dveri ](kve70dveri.md)
