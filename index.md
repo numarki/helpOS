@@ -23,6 +23,6 @@
 1. [stekla.md](stekla.md)
 1. [Противомоскитные сетки](moskitnyesetki.md)
 1. [tablicaogranicheniy.md](tablicaogranicheniy.md)
-2. двери
-  2. [KBE- 58 Двери](kveGut58dveri.md)
-  2. [KBE 70 Dveri ](kve70dveri.md)
+1. двери
+   [KBE- 58 Двери](kveGut58dveri.md)
+   [KBE 70 Dveri ](kve70dveri.md)
