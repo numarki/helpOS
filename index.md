@@ -2,7 +2,7 @@
 1. [REHAU GRAZIO](GRAZIO.md)
 1. [KBE Expert  70](kveekspert.md)
 1. [kveGut58](KBE- Gut 58.md)
-1. [kveMaster](KBEMASTER)
+1. [KBE Master](kveMaster.md)
 1. [BlitzNew](REHAU Blitz New)
 1. [kve70dveri](KBE- 70Dveri)
 1. [kve76V1](kve76V1.md)
