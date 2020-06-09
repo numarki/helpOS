@@ -1,4 +1,4 @@
-1. [Delight-Design.md](REHAU DELIGHT=-DESIGN)
+1. [Delight-Design](REHAU DELIGHT-DESIGN.md)
 1. [GRAZIO.md](REHAU GRAZIO)
 1. [kveekspert.md](KBE- EXPERT 70)
 1. [kveGut58.md](KBE- Gut 58)
