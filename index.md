@@ -26,7 +26,7 @@
   1. ## Раскладка
         1. [raskladka.md](raskladka.md)
   1. ## Сендвичпанели
-        1. [sendvichtpaneli.md](sendvichtpaneli.md)           
+        1. ### [sendvichtpaneli.md](sendvichtpaneli.md)           
 
 
 
