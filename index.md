@@ -12,8 +12,8 @@
          1. [KBE- 58 Двери](kveGut58dveri.md)
          1. [KBE- Портал](portal.md)     
  1. ## двери
-         1. [KBE- 58 Двери](kveGut58dveri.md)
-         1. [KBE 70 Dveri ](kve70dveri.md)
+          [KBE- 58 Двери](kveGut58dveri.md)
+          [KBE 70 Dveri ](kve70dveri.md)
 
  1. ## Маскитные сетки  
          1. [Противомоскитные сетки](moskitnyesetki.md)   
