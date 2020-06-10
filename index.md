@@ -22,7 +22,7 @@
        1. ### [Подоконники Moeller](podokonniki.md)
  1. ## Штапик
        1. ### [shtapiki.md](shtapiki.md)
-  1. ## стекла
+  1. ## Стекла
         1. ### [stekla.md](stekla.md)
   1. ## Раскладка
         1. ### [raskladka.md](raskladka.md)
