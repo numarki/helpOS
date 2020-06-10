@@ -1,9 +1,7 @@
-1. [REHAU DELIGHT-DESIGN](Delight-Design.md)
-1. [REHAU GRAZIO](GRAZIO.md)
+
 1. [KBE Expert  70](kveekspert.md)
 1. [KBE- Gut 58](kveGut58.md)
 1. [KBE Master](kveMaster.md)
-1. [Rehau Blitz New](BlitzNew.md)
 1. [KBE 70 Dveri ](kve70dveri.md)
 1. [KBE- 76V1](kve76V1.md)
 1. [KBE- 58 Двери](kveGut58dveri.md)
@@ -23,6 +21,11 @@
 1. [stekla.md](stekla.md)
 1. [Противомоскитные сетки](moskitnyesetki.md)
 1. [tablicaogranicheniy.md](tablicaogranicheniy.md)
+1. профиль
+      1. Rehau
+         1. [REHAU DELIGHT-DESIGN](Delight-Design.md)
+         1. [REHAU GRAZIO](GRAZIO.md)
+         1. [Rehau Blitz New](BlitzNew.md) 
 1. двери
       1. [KBE- 58 Двери](kveGut58dveri.md)
       1. [KBE 70 Dveri ](kve70dveri.md)
