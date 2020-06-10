@@ -16,9 +16,11 @@
        1. [KBE 70 Dveri ](kve70dveri.md)
 
  1. ## Маскитные сетки  
-         1. [Противомоскитные сетки](moskitnyesetki.md)   
+      1. [Противомоскитные сетки](moskitnyesetki.md)   
  1. ## Подоконники
-         1. [Подоконники Moeller](podokonniki.md)
+       1. [Подоконники Moeller](podokonniki.md)
+
+
          1. [shtapiki.md](shtapiki.md)
          1. [slaydors.md](slaydors.md)
          1. [terrasnyedveri.md](terrasnyedveri.md)
