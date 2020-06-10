@@ -14,7 +14,7 @@
 1. [stekla.md](stekla.md)
 1. [Противомоскитные сетки](moskitnyesetki.md)
 1. [tablicaogranicheniy.md](tablicaogranicheniy.md)
- ## профиль
+1. ## профиль
       1. ### Rehau
          1. [REHAU DELIGHT-DESIGN](Delight-Design.md)
          1. [REHAU GRAZIO](GRAZIO.md)
@@ -27,6 +27,6 @@
             1. [KBE- 76V1](kve76V1.md)
             1. [KBE- 58 Двери](kveGut58dveri.md)
             1. [KBE- Портал](portal.md)     
- ## двери
+ 1. ## двери
          1. [KBE- 58 Двери](kveGut58dveri.md)
          1. [KBE 70 Dveri ](kve70dveri.md)
